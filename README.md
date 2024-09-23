@@ -32,3 +32,6 @@ See the documentation for [@tailwindcss/typography](https://github.com/tailwindl
 
 ### Can I use this template for commercial projects?
 Yes, you can use this template for commercial projects. Please see the [license](LICENSE) for more information.
+
+## Acknowledgements
+- [Next.js + Contentlayer Blog Starter](https://github.com/shadcn/next-contentlayer): Thanks to the maintainers of this project for the inspiration. I referenced this project to figure out how to set up Contentlayer with Next.js.
